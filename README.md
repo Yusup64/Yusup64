@@ -106,7 +106,7 @@
     <img alt="Stars" src="https://img.shields.io/github/stars/Yusup64?label=Stars&style=flat-square" />
   </a>
   <a href="https://github.com/Yusup64?tab=repositories">
-    <img alt="Repositories" src="https://img.shields.io/github/repo-count/Yusup64?label=Repos&style=flat-square" />
+    <img alt="Repositories" src="https://img.shields.io/badge/Public%20Repos-12-blue?style=flat-square" />
   </a>
 </p>
 
