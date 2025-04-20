@@ -71,19 +71,20 @@
 <p align="center">
   <!-- Overall stats -->
   <a href="https://github.com/Yusup64">
-    <img alt="Yusup64's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Yusup64&show_icons=true&count_private=true&theme=default" />
+       <img alt="Yusup64's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Yusup64&show_icons=true&count_private=true&theme=tokyonight" />
+       
   </a>
   <!-- Most used langs -->
   <a href="https://github.com/Yusup64">
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yusup64&layout=compact&theme=default" />
+    <img alt="Snake animation" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yusup64&layout=donut-vertical&theme=tokyonight" />
   </a>
 </p>
 
 <p align="center">
   <!-- Streak -->
-  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Yusup64&theme=default" />
+  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Yusup64&theme=tokyonight" />
   <!-- Trophies -->
-  <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=Yusup64&theme=default" />
+  <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=Yusup64&theme=tokyonight" />
   <!-- Profile views -->
 <img alt="Profile Views" src="https://profile-counter.glitch.me/Yusup64/count.svg" />
 </p>
