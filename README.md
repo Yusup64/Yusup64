@@ -69,17 +69,49 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yusup64&show_icons=true&theme=default" alt="GitHub Stats" />
+  <!-- Overall stats -->
+  <a href="https://github.com/Yusup64">
+    <img alt="Yusup64's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Yusup64&show_icons=true&count_private=true&theme=default" />
+  </a>
+  <!-- Most used langs -->
+  <a href="https://github.com/Yusup64">
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yusup64&layout=compact&theme=default" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yusup64&layout=compact" alt="Top Languages" />
+  <!-- Streak -->
+  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Yusup64&theme=default" />
+  <!-- Trophies -->
+  <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=Yusup64&theme=default" />
+  <!-- Profile views -->
+<img alt="Profile Views" src="https://profile-counter.glitch.me/Yusup64/count.svg" />
 </p>
 
 ---
 
+### 📫 Connect with Me
+
+<p align="center">
+  <a href="https://yusuf-turek.vercel.app" target="_blank">
+    <img alt="Website" src="https://img.shields.io/badge/Website-https%3A%2F%2Fyusuf--turek.vercel.app-blue?style=flat-square" />
+  </a>
+  <a href="mailto:YusupTurak@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Gmail-YusupTurak%40gmail.com-red?style=flat-square&logo=gmail" />
+  </a>
+  <a href="https://github.com/Yusup64?tab=followers">
+    <img alt="Followers" src="https://img.shields.io/github/followers/Yusup64?label=Followers&style=flat-square" />
+  </a>
+  <a href="https://github.com/Yusup64?tab=stars">
+    <img alt="Stars" src="https://img.shields.io/github/stars/Yusup64?label=Stars&style=flat-square" />
+  </a>
+  <a href="https://github.com/Yusup64?tab=repositories">
+    <img alt="Repositories" src="https://img.shields.io/github/repo-count/Yusup64?label=Repos&style=flat-square" />
+  </a>
+</p>
+
 ## 👁️‍🗨️ Visitor Count
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Yusup64&style=flat-square" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Yusup64&style=plastic&color=brightgreen" alt="views"/>
 </p>
