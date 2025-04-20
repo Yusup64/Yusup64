@@ -20,43 +20,68 @@
 
 ## 🛠️ Tech Stack
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+### 💻 Frontend
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+<table>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=html" width="40"/><br/>HTML5</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=css" width="40"/><br/>CSS3</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=javascript" width="40"/><br/>JavaScript</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=typescript" width="40"/><br/>TypeScript</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=vue" width="40"/><br/>Vue.js</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react" width="40"/><br/>React</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nextjs" width="40"/><br/>Next.js</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nuxtjs" width="40"/><br/>Nuxt.js</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="40"/><br/>Tailwind CSS</td>
+  </tr>
+</table>
 
-### Database
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+### 🧰 Backend
 
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI/CD-4A154B?style=flat-square&logo=githubactions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+<table>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="40"/><br/>Node.js</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=express" width="40"/><br/>Express</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nestjs" width="40"/><br/>NestJS</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=java" width="40"/><br/>Java</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=python" width="40"/><br/>Python</td>
+  </tr>
+</table>
 
-### Mobile
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+### 🗄️ Database
+
+<table>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="40"/><br/>MySQL</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="40"/><br/>MongoDB</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=redis" width="40"/><br/>Redis</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="40"/><br/>PostgreSQL</td>
+  </tr>
+</table>
+
+### ⚙️ DevOps & Tools
+
+<table>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=docker" width="40"/><br/>Docker</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=aws" width="40"/><br/>AWS</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=githubactions" width="40"/><br/>CI/CD</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=jenkins" width="40"/><br/>Jenkins</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git" width="40"/><br/>Git</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="40"/><br/>VS Code</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=webpack" width="40"/><br/>Webpack</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=jest" width="40"/><br/>Jest</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postman" width="40"/><br/>Postman</td>
+  </tr>
+</table>
+
+### 📱 Mobile
+
+<table>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react" width="40"/><br/>React Native</td>
+  </tr>
+</table>
 
 ---
 
@@ -71,8 +96,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yusup64&show_icons=true&count_private=true&theme=tokyonight" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yusup64&layout=donut-vertical&theme=tokyonight" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Yusup64&show_icons=true&count_private=true&theme=tokyonight" height="200" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yusup64&layout=donut-vertical&theme=tokyonight" height="200" width="30%" />
 </div>
 
 <div align="center">
