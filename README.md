@@ -18,48 +18,43 @@
 
 ## 🛠️ Tech Stack
 
-### Frontend Technologies
-![HTML5](https://cdn.simpleicons.org/html5?viewbox=auto) HTML5 &nbsp;
-![CSS3](https://cdn.simpleicons.org/css3?viewbox=auto) CSS3 &nbsp;
-![JavaScript](https://cdn.simpleicons.org/javascript?viewbox=auto) JavaScript &nbsp;
-![TypeScript](https://cdn.simpleicons.org/typescript?viewbox=auto) TypeScript &nbsp;
-![Canvas](https://cdn.simpleicons.org/canvas?viewbox=auto) Canvas
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-### Frameworks & Libraries
-![Vue.js](https://cdn.simpleicons.org/vuedotjs?viewbox=auto) Vue.js &nbsp;
-![Vue Router](https://pinia.vuejs.org/logo.svg) Vue Ecosystem &nbsp;
-![React](https://cdn.simpleicons.org/react?viewbox=auto) React.js &nbsp;
-![Next.js](https://cdn.simpleicons.org/nextdotjs?viewbox=auto) Next.js &nbsp;
-![Nuxt.js](https://cdn.simpleicons.org/nuxt?viewbox=auto) Nuxt.js &nbsp;
-![NestJS](https://cdn.simpleicons.org/nestjs?viewbox=auto) Nest.js &nbsp;
-![Tailwind CSS](https://cdn.simpleicons.org/tailwindcss?viewbox=auto) Tailwind CSS
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-### Backend & DevOps
-![Docker](https://cdn.simpleicons.org/docker?viewbox=auto) Docker &nbsp;
-![AWS](https://cdn.simpleicons.org/awsamplify?viewbox=auto) AWS &nbsp;
-![CI/CD](https://cdn.simpleicons.org/circleci?viewbox=auto) CI/CD &nbsp;
-![Jenkins](https://cdn.simpleicons.org/jenkins?viewbox=auto) Jenkins &nbsp;
-![NodeJS](https://cdn.simpleicons.org/nodedotjs?viewbox=auto) Node.js &nbsp;
-![Express](https://cdn.simpleicons.org/express?viewbox=auto) Express.js
+### Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-### Database & Other Skills
-![React Native](https://cdn.simpleicons.org/react?viewbox=auto) React Native &nbsp;
-![Java](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg) Java &nbsp;
-![Python](https://cdn.simpleicons.org/python?viewbox=auto) Python &nbsp;
-![MySQL](https://cdn.simpleicons.org/mysql?viewbox=auto) MySQL &nbsp;
-![MongoDB](https://cdn.simpleicons.org/mongodb?viewbox=auto) MongoDB &nbsp;
-![Redis](https://cdn.simpleicons.org/redis?viewbox=auto) Redis &nbsp;
-![PostgreSQL](https://cdn.simpleicons.org/postgresql?viewbox=auto) PostgreSQL
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-4A154B?style=flat-square&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
-### Development Tools
-![Git](https://cdn.simpleicons.org/git?viewbox=auto) Git &nbsp;
-![VS Code](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg) VS Code &nbsp;
-![Docker](https://cdn.simpleicons.org/docker?viewbox=auto) Docker &nbsp;
-![Figma](https://cdn.simpleicons.org/figma?viewbox=auto) Figma &nbsp;
-![Webpack](https://cdn.simpleicons.org/webpack?viewbox=auto) Webpack &nbsp;
-![npm](https://cdn.simpleicons.org/npm?viewbox=auto) NPM/Yarn &nbsp;
-![Jest](https://cdn.simpleicons.org/jest?viewbox=auto) Jest &nbsp;
-![Postman](https://cdn.simpleicons.org/postman?viewbox=auto) Postman
+### Mobile
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 
 ---
 
@@ -79,14 +74,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yusup64&layout=compact" alt="Top Languages" />
-</p>
-
----
-
-## 🖼️ Portfolio Preview
-
-<p align="center">
-  <img src="https://yusuf-turek.vercel.app/screenshot.png" width="600px" alt="Portfolio Screenshot" />
 </p>
 
 ---
