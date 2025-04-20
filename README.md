@@ -96,8 +96,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yusup64&show_icons=true&count_private=true&theme=tokyonight" height="200" width="60%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yusup64&layout=donut-vertical&theme=tokyonight" height="200" width="30%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Yusup64&show_icons=true&count_private=true&theme=tokyonight" height="200"  />
+<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yusup64&layout=donut&theme=radical" />
 </div>
 
 <div align="center">
