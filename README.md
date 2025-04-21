@@ -12,8 +12,8 @@
 
 - 💻 Full Stack Developer passionate about creating elegant, user-friendly web applications
 - 🌍 Based in Paris, France
-- 📧 Contact: YusupTurak@Gmail.com
-- 📱 Phone: +3377*****66
+- 📧 Contact: Hi@Yusuf-Turek.fr
+- 📱 Phone: +3377******66
 - 🎓 Bachelor's in Software Engineering from Donghua University, currently pursuing a Master's at EPITA
 
 ---
@@ -119,7 +119,7 @@
   <a href="https://yusuf-turek.fr" target="_blank">
     <img alt="Website" src="https://img.shields.io/badge/Website-https%3A%2F%2Fyusuf--turek.fr-blue?style=flat-square" />
   </a>
-  <a href="mailto:YusupTurak@gmail.com">
+  <a href="mailto:Hi@Yusuf-Turek.fr">
     <img alt="Email" src="https://img.shields.io/badge/Gmail-YusupTurak%40gmail.com-red?style=flat-square&logo=gmail" />
   </a>
   <a href="https://github.com/Yusup64?tab=followers">
