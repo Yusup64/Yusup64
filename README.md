@@ -120,7 +120,7 @@
     <img alt="Website" src="https://img.shields.io/badge/Website-https%3A%2F%2Fyusuf--turek.fr-blue?style=flat-square" />
   </a>
   <a href="mailto:Hi@Yusuf-Turek.fr">
-    <img alt="Email" src="https://img.shields.io/badge/Gmail-YusupTurak%40gmail.com-red?style=flat-square&logo=gmail" />
+    <img alt="Email" src="https://img.shields.io/badge/Gmail-Hi%40Yusuf-Turek.fr-red?style=flat-square&logo=gmail" />
   </a>
   <a href="https://github.com/Yusup64?tab=followers">
     <img alt="Followers" src="https://img.shields.io/github/followers/Yusup64?label=Followers&style=flat-square" />
