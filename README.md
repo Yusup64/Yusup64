@@ -13,7 +13,7 @@
 - 💻 Full Stack Developer passionate about creating elegant, user-friendly web applications
 - 🌍 Based in Paris, France
 - 📧 Contact: YusupTurak@Gmail.com
-- 📱 Phone: +33775723766
+- 📱 Phone: +3377*****66
 - 🎓 Bachelor's in Software Engineering from Donghua University, currently pursuing a Master's at EPITA
 
 ---
