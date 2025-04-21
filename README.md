@@ -3,7 +3,7 @@
 
 <p align="center">
   💻 Full-stack explorer | 📈 Constant learner | 🌐 Web enthusiast <br/>
-  🔗 <a href="https://yusuf-turek.vercel.app/" target="_blank"><strong>Visit My Portfolio</strong></a>
+  🔗 <a href="https://yusuf-turek.fr" target="_blank"><strong>Visit My Portfolio</strong></a>
 </p>
 
 ---
@@ -87,7 +87,7 @@
 
 ## 🌐 My Links
 
-- 🔗 Portfolio: [yusuf-turek.vercel.app](https://yusuf-turek.vercel.app/)
+- 🔗 Portfolio: [yusuf-turek.fr](https://yusuf-turek.fr)
 - 🐙 GitHub: [github.com/Yusup64](https://github.com/Yusup64)
 - 💼 LinkedIn: [linkedin.com/in/yusuf-turek](https://www.linkedin.com/in/yusuf-turek/)
 
@@ -116,8 +116,8 @@
 ### 📫 Connect with Me
 
 <p align="center">
-  <a href="https://yusuf-turek.vercel.app" target="_blank">
-    <img alt="Website" src="https://img.shields.io/badge/Website-https%3A%2F%2Fyusuf--turek.vercel.app-blue?style=flat-square" />
+  <a href="https://yusuf-turek.fr" target="_blank">
+    <img alt="Website" src="https://img.shields.io/badge/Website-https%3A%2F%2Fyusuf--turek.fr-blue?style=flat-square" />
   </a>
   <a href="mailto:YusupTurak@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Gmail-YusupTurak%40gmail.com-red?style=flat-square&logo=gmail" />
@@ -138,3 +138,4 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%"/>
 
+![GitHub Contributions](https://github-contributions.vercel.app/Yusup64)
