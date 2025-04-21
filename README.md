@@ -137,5 +137,3 @@
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%"/>
-
-![GitHub Contributions](https://github-contributions.vercel.app/Yusup64)
