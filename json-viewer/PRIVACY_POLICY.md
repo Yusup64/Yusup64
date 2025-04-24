@@ -56,7 +56,7 @@ We may update this Privacy Policy from time to time. We will notify you of any c
 ## Contact Us
 
 If you have any questions about this Privacy Policy, please contact us at:
-- Email: yusuf.turek@gmail.com
+- Email: Hi@Yusuf-Turek.fr
 - GitHub: https://github.com/Yusup64
 
 ## Your Rights
